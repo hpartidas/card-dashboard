@@ -1,0 +1,7 @@
+.card {
+    flex:content-box;
+    width: 120px;
+    height: 80px;
+    border-bottom: 1px darkcyan solid;
+    margin: 10px;
+}
